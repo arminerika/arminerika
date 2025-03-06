@@ -5,7 +5,6 @@
 👩🏻‍🎓 Student at Cal Poly Pomona <br/>
 👩🏻‍💻 Majoring in Computer Science <br/>
 💻 Minoring in Data Science + Cybersecurity <br/>
-🎯 Currently working on [this one](https://github.com/BroncoHacks-Website "Bronco Hacks Website") and [that one](https://github.com/cpp-fast-cybersecurity-research-team "Security Chatbot") <br><br/>
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
